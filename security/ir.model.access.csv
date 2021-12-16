@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_convalidation_app_alumn_model,convalidation_app.alumn_model,model_convalidation_app_alumn_model,,1,1,1,1
+access_convalidation_app_module_model,convalidation_app.module_model,model_convalidation_app_module_model,,1,1,1,1
+access_convalidation_app_cycle_model,convalidation_app.cycle_model,model_convalidation_app_cycle_model,,1,1,1,1
+access_convalidation_app_convalidation_model,convalidation_app.convalidation_model,model_convalidation_app_convalidation_model,,1,1,1,1
